@@ -1,0 +1,7 @@
+wel come to Pyspark program
+
+python
+spark
+sql
+
+satya
